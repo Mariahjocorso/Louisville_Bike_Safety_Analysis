@@ -1,11 +1,21 @@
 # Louisville_Bike_Safety_Analysis
 
 ## Features
-1. Loading data. All of the below features should be somewhat familiar to you at this point. However, the challenge with this project is going to be using two separate sources. In feature 2, you’re going to be challenged to combine the datasets using a merge / join, or make a new dataset with different attributes / columns from the separate sets. 
-2. Clean and operate on the data while combining them. The heart of data science is data wrangling and cleaning, so these features test that. As an example, imagine you have data with countries and their GDPs, then a separate data set with countries and number of geese. Combine the data sets into one then calculate a GDP to geese ratio. Obviously, this is a nonsensical example and geese have no (known) influence on GDP, but this feature is just to test your knowledge of combining and working with multiple sets of data. You may have trouble joining the sets if one has the names of countries in lower case and another has the first letter capitalized. This is where you would need to clean the set in order to merge them. 
-3. Visualize / Present your data. In addition to matplotlib and seaborn, you might use Tableau or a pandas pivot table to summarize your data. Imagine you have to present your data to your future manager or in an interview. They should be able to understand what you’re trying to present relatively quickly without having knowledge of  how you programmed it.
-4. Best practices: these are concepts or ideas that aren’t just writing code, but enhance your project to a higher tier that will impress employers and help other programmers understand your project. These (probably) won’t affect whether or not your project runs, but can help people understand your goals and intent with the project as well as make it more maintainable. 
-4.Interpretation of your data. This requires no code but is VERY important. You’re going to be practicing your written skills here, which is an essential job skill. You can just say “clear communication skills” on a resume, you have to prove it to them. We want few grammatical errors, good markdown formatting where relevant, and explanations of why you’re coding what you’re coding. When you read through the class work-through project HERE you can see what I’m thinking because of how I have things written in the markdown cells above and below the code. Obviously, you will have grammatical and formatting errors, that’s human. But if someone that’s not super familiar with Python or your project picks it up, they should be able to make sense of it relatively quickly. This last box is a “polishing” step to make sure everything is tidy and ready to present to an employer. 
+1. Loading data. 
+    -Read TWO data files (JSON, CSV, Excel, etc.)
+    I read in two CSV files. I created two separet queries on Kentucky State Police's website fo
 
-Also, notice that your README uses the file extension .md. This is just markdown, and it’s the same “markup language” used in Jupyter Notebook markdown cells.
+2. Clean and operate on the data while combining them. The heart of data science is data wrangling and cleaning, so these features test that. This is where you would need to clean the set in order to merge them. 
+    Dropping columns and changing column names, Combine the sets EXPAND
+
+3. Visualize / Present your data. 
+    ADD TABLAEU LINK OF HEAT MAPS
+
+4. Best practices,
+    CREATE A VIRTUAL ENV
+
+5.Interpretation of your data. 
+   -Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
+    EXTREAME MARKDOWNS and a GREAT README
+
  
