@@ -10,7 +10,6 @@
 
 * Run pip install -r requirements.txt to install the required packages.
 
-
 ## Features
 1. Loading data. 
     -Read TWO data files (JSON, CSV, Excel, etc.)
@@ -37,6 +36,13 @@
 
 5.Interpretation of your data. 
    -Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
-    EXTREAME MARKDOWNS and a GREAT README
+    -See Explanation Section'
+
+## Explanation 
+    -My partner has been Biking all around Louisville lately and did a survey with his bike group about which neighborhood's they felt most and least safe. This project does not include that survey but is inspired by it. I was able to obtain bicyclist collison data from Kentucky Sate Police's website.
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset=https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis/blob/main/KSP_Query_Example.jpg>
+  <img alt="Shows a screenshot of one of the two queries I ran to obtain my data.">
+  </picture>
 
  
