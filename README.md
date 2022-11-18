@@ -40,9 +40,7 @@
 
 ## Explanation 
     -My partner has been Biking all around Louisville lately and did a survey with his bike group about which neighborhood's they felt most and least safe. This project does not include that survey but is inspired by it. I was able to obtain bicyclist collison data from Kentucky Sate Police's website.
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis/blob/main/KSP_Query_Example.jpg>
-  <img alt="Shows a screenshot of one of the two queries I ran to obtain my data.">
-  </picture>
+  ![KSP Query](https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis/blob/main/KSP_Query_Example.jpg)
+ 
 
  
