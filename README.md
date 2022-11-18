@@ -4,11 +4,11 @@
 
 * Run git clone https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis to clone the repository.
 * In the Louisville Bike Safety Analysis directory, run ```python3 -m venv venv``` to create the virtual environment.Activate the newly created virtual environment. 
-*From the directory run the following command:
-if using Windows PowerShell: ```source venv\Scripts\Activate.ps1```
-if using Linux or Mac with bash/zsh: ```source venv/bin/activate```
+* From the directory run the following command:
+- if using Windows PowerShell: ```source venv\Scripts\Activate.ps1```
+- if using Linux or Mac with bash/zsh: ```source venv/bin/activate```
 
-Run pip install -r requirements.txt to install the required packages.
+* Run pip install -r requirements.txt to install the required packages.
 
 
 ## Features
@@ -23,7 +23,7 @@ Run pip install -r requirements.txt to install the required packages.
 3. Visualize / Present your data. 
     -Make a Tableau dashboard to display your data
     Here is a link to my profile to see all six vizulizations I made: https://public.tableau.com/app/profile/mariah.corso
-    
+
     * [Injuries 2020 to 2021](https://public.tableau.com/views/BicyclistInjuries2020to2021/Injured1?:language=en-US&:display_count=n&:origin=viz_share_link)
     * [Deaths 2020 to 2021](https://public.tableau.com/views/BicyclistDeaths2020to2021/Deaths1?:language=en-US&:display_count=n&:origin=viz_share_link)
     * [Injuries 2021 to 2022](https://public.tableau.com/views/BicyclistInjuries2021to2022/Injured2?:language=en-US&:display_count=n&:origin=viz_share_link)
