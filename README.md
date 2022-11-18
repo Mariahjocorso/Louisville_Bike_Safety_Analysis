@@ -13,15 +13,16 @@
 ## Features
 1. Loading data. 
     -Read TWO data files (JSON, CSV, Excel, etc.)
-    I read in two CSV files. I created two separet queries on Kentucky State Police's website fo
+        - I read in two CSV files. I created two separet queries on Kentucky State Police's website. I oringaly pulled them in as excel files and converted the data into CSV to work with. 
 
-2. Clean and operate on the data while combining them. The heart of data science is data wrangling and cleaning, so these features test that. This is where you would need to clean the set in order to merge them. 
-    -Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
-    Dropping columns and changing column names, Combine the sets EXPAND
+2. Clean and operate on the data while combining them. 
+    - The heart of data science is data wrangling and cleaning, so these features test that. This is where you would need to clean the set in order to merge them. Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
+        - Dropping columns and changing column names, Combine the sets EXPAND
 
 3. Visualize / Present your data. 
-    -Make a Tableau dashboard to display your data
-    Here is a link to my profile to see all six vizulizations I made: https://public.tableau.com/app/profile/mariah.corso
+
+ - Make a Tableau dashboard to display your data
+        - Here is a link to my profile to see all six vizulizations I made: https://public.tableau.com/app/profile/mariah.corso
 
     * [Injuries 2020 to 2021](https://public.tableau.com/views/BicyclistInjuries2020to2021/Injured1?:language=en-US&:display_count=n&:origin=viz_share_link)
     * [Deaths 2020 to 2021](https://public.tableau.com/views/BicyclistDeaths2020to2021/Deaths1?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -31,13 +32,14 @@
     * [Hit&Runs 2021 to 2022](https://public.tableau.com/views/HitandRunInvolvingBicyclists2021to2022/HitRun2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-4. Best practices,
+4. Best practices.
+
+- Utilize a virtual environment and include instructions in your README on how the user should set one up
     -I created a virtual environment and was able to run my project through it after cloning my git hub repo. I have included instructions on how to run my project through a virtual environment. 
 
 5.Interpretation of your data. 
    - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
-
-    See Explanation Section
+        - See Explanation Section
 
 ## Explanation 
     -My partner has been Biking all around Louisville lately and did a survey with his bike group about which neighborhood's they felt most and least safe. This project does not include that survey but is inspired by it. I was able to obtain bicyclist collison data from Kentucky Sate Police's website.
