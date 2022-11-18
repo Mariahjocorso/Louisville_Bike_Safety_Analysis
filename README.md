@@ -17,7 +17,7 @@
 
 ## Features
 1. Loading data. 
-    -Read TWO data files (JSON, CSV, Excel, etc.)
+    - Read TWO data files (JSON, CSV, Excel, etc.)
         - I read in two CSV files. I created two separet queries on Kentucky State Police's website. I originally pulled them in as excel files and converted the data into CSV to work with. 
 
 2. Clean and operate on the data while combining them. 
@@ -40,17 +40,16 @@
 4. Best practices.
 
 - Utilize a virtual environment and include instructions in your README on how the user should set one up
-    -I created a virtual environment and was able to run my project through it after cloning my git hub repo. I have included instructions on how to run my project through a virtual environment. 
+    - I created a virtual environment and was able to run my project through it after cloning my git hub repo. I have included instructions on how to run my project through a virtual environment. 
 
-5.Interpretation of your data. 
+5. Interpretation of your data. 
    - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
         - See Explanation Section
 
 ## Explanation 
+ - My partner has been Biking all around Louisville lately and did a survey with his bike group about which neighborhood's they felt most and least safe. This project does not include that survey but is inspired by it. I was able to obtain bicyclist collison data from Kentucky Sate Police's website.
 
-    - My partner has been Biking all around Louisville lately and did a survey with his bike group about which neighborhood's they felt most and least safe. This project does not include that survey but is inspired by it. I was able to obtain bicyclist collison data from Kentucky Sate Police's website.
-
-  ![KSP Query](https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis/blob/main/KSP_Query_Example.jpg)
+![KSP Query](https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis/blob/main/KSP_Query_Example.jpg)
  
     - These are the criteria that I used to pull the data sets. Once with 11/01/2020 to 11/01/2021 and then again for the dates 11/01/2021 to 11/01/2022. 
     - The data files were downloaded as Excel files but I only needed data from the Incident tab in the data set. I converted this tab ito a CSV file for each data set and used panda to load said data sets. 
