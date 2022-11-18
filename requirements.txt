@@ -1,2 +1,6 @@
 pandas==1.4.3
 numpy==1.23.0
+IPython==8.4.0
+juypter_client==7.3.2
+juypter_core==4.10.0
+notebook==6.4.11
