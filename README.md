@@ -1,13 +1,18 @@
 # Louisville Bike Safety Analysis
 
+## Requirments
+ - Python 3.10.2
+ - Google Chrome 10
+
 ## Set up
 
 * Run git clone https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis to clone the repository.
 * In the Louisville Bike Safety Analysis directory, run ```python3 -m venv venv``` to create the virtual environment.Activate the newly created virtual environment. 
 * From the directory run the following command:
-- if using Windows PowerShell: ```source venv\Scripts\Activate.ps1```
-- if using Linux or Mac with bash/zsh: ```source venv/bin/activate```
-
+    - if using Windows PowerShell: ```source venv\Scripts\Activate.ps1```
+    - if using Linux or Mac with bash/zsh: ```source venv/bin/activate```
+* [Python Venv Resource Help](https://docs.python.org/3/library/venv.html)
+* [windows, Linux, Mac Venv Help](https://itnext.io/a-quick-guide-on-how-to-setup-a-python-virtual-environment-windows-linux-mac-bf662c2c77d3)
 * Run pip install -r requirements.txt to install the required packages.
 
 ## Features
