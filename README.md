@@ -1,8 +1,9 @@
 # Louisville Bike Safety Analysis
 
 ## Set up
-Run git clone https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis to clone the repository.
-In the Louisville Bike Safety Analysis directory, run python3 -m venv venv to create the virtual environment.
+
+* Run git clone https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis to clone the repository.
+* In the Louisville Bike Safety Analysis directory, run ```python3 -m venv venv``` to create the virtual environment.
 Activate the newly created virtual environment. 
 From the directory run the following command:
 if using Windows PowerShell: source venv\Scripts\Activate.ps1
