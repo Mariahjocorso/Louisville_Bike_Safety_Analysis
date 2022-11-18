@@ -23,17 +23,17 @@ Run pip install -r requirements.txt to install the required packages.
 3. Visualize / Present your data. 
     -Make a Tableau dashboard to display your data
     Here is a link to my profile to see all six vizulizations I made: (https://public.tableau.com/app/profile/mariah.corso)
-    *[Injuries 2020 to 2021]
+    [Injuries 2020 to 2021]
     (https://public.tableau.com/views/BicyclistInjuries2020to2021/Injured1?:language=en-US&:display_count=n&:origin=viz_share_link)
-    *[Deaths 2020 to 2021]
+    * [Deaths 2020 to 2021]
     (https://public.tableau.com/views/BicyclistDeaths2020to2021/Deaths1?:language=en-US&:display_count=n&:origin=viz_share_link)
-    *[Injuries 2021 to 2022]
+    [Injuries 2021 to 2022]
     (https://public.tableau.com/views/BicyclistInjuries2021to2022/Injured2?:language=en-US&:display_count=n&:origin=viz_share_link)
-    *[Deaths 2021 to 2022]
+    [Deaths 2021 to 2022]
     (https://public.tableau.com/views/BicyclistDeaths2021to2022/Deaths2?:language=en-US&:display_count=n&:origin=viz_share_link)
-    *[Hit&Runs 2020 to 2021]
+    [Hit&Runs 2020 to 2021]
     (https://public.tableau.com/views/HitandRunInvolvingBicyclist2020to2021/HitRun1?:language=en-US&:display_count=n&:origin=viz_share_link)
-    *[Hit&Runs 2021 to 2022]
+    [Hit&Runs 2021 to 2022]
     (https://public.tableau.com/views/HitandRunInvolvingBicyclists2021to2022/HitRun2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
