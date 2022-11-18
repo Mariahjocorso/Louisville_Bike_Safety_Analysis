@@ -35,11 +35,13 @@
     -I created a virtual environment and was able to run my project through it after cloning my git hub repo. I have included instructions on how to run my project through a virtual environment. 
 
 5.Interpretation of your data. 
-   -Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. 
-    -See Explanation Section'
+   - Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md.
+
+    See Explanation Section
 
 ## Explanation 
     -My partner has been Biking all around Louisville lately and did a survey with his bike group about which neighborhood's they felt most and least safe. This project does not include that survey but is inspired by it. I was able to obtain bicyclist collison data from Kentucky Sate Police's website.
+
   ![KSP Query](https://github.com/Mariahjocorso/Louisville_Bike_Safety_Analysis/blob/main/KSP_Query_Example.jpg)
  
 
